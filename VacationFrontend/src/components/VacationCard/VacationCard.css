@@ -1,0 +1,49 @@
+.vacation-card{
+    border: solid black 1px;
+    text-align: center;
+    min-width: 200px;
+    min-height: 200px;
+    border-radius: 8%;
+    margin: 5% 2% 0% 0%;
+    padding: 1%;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    opacity: 0.8;
+}
+
+.buttons button{
+    border: none;
+    outline: none;
+    font-size: 25px;
+    background-color: transparent;
+    color: black;
+}
+
+.card-header{
+    /* text-decoration: underline; */
+    font-size: 20px;
+}
+
+.card-body{
+    margin: 5%;
+    font-style: oblique;
+    color: rgb(25, 78, 96);
+}
+
+.card-button{
+    float: right;
+}
+
+.card-img{
+    width: 250px;
+    height: 200px;
+    border-radius: 9px;
+    padding: 3px;
+}
+
+.description button{
+    margin-top: 6%;
+}
+
+
+

@@ -1,0 +1,41 @@
+.nav-bar{
+    background-color: #333;
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    z-index: 1;
+}
+
+.nav-bar a{
+    cursor: pointer;
+}
+
+.welcome{
+    color: white;
+}
+
+.navbar-brand{
+    margin-top: 14px;
+    padding: 0%;
+}
+
+.navbar{
+    padding: 0px;
+}
+
+.modal-button{
+    color: #a3a3a3;
+    background-color: transparent;
+    margin-top: 4%;
+    border: none;
+    font-size: 17px;
+}
+
+.statics-graph{
+    color: #a3a3a3;
+    background-color: transparent;
+    margin-top: 6%;
+    border: none;
+    font-size: 17px;
+}
+

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "is-valid-email": "^0.0.5"
+  }
+}

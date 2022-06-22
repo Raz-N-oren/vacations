@@ -1,0 +1,14 @@
+.card{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    padding: 1%;
+}
+
+.Statics-Graph-title{
+    margin: 1% 0 1% 0 ;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+}

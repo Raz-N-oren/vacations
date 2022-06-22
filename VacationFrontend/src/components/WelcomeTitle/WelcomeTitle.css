@@ -1,0 +1,16 @@
+.titleImg{
+    width: 100px;
+    height: 100px;
+    margin-top: 6%;
+    flex-wrap: wrap;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titleText{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
